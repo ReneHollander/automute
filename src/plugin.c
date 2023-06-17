@@ -17,7 +17,7 @@
 
 static struct TS3Functions ts3Functions;
 
-#define PLUGIN_API_VERSION 23
+#define PLUGIN_API_VERSION 26
 
 const char* ts3plugin_name() {
 	return "AutoMute";
